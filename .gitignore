@@ -14,3 +14,4 @@ __pycache__/modal_upload.cpython-311.pyc
 __pycache__/modaltest.cpython-311.pyc
 .DS_Store
 .idea/
+.venv/
